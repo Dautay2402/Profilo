@@ -315,11 +315,11 @@ section {
   color: #149ddd;
   line-height: 0;
 }
-.about .col-lg-4{
-  border-radius: 20% ;
-}
 .about .content p:last-child {
   margin-bottom: 0;
+}
+.img-fluid{
+  border-radius: 20%;
 }
 
 /*--------------------------------------------------------------
